@@ -1,0 +1,86 @@
+h1{
+    font-size:36px;
+    line-height:36px;
+    border-width:0px 0px 1px 0px;
+    border-color:black;
+    border-style:solid;
+    padding-bottom:20px;
+}
+h2{
+
+}
+ul{
+    font-size:20px;
+    line-height:40px;
+    margin-bottom:10px;
+}
+ol{
+    font-size:20px;
+    line-height:40px;
+    margin-bottom:20px;
+}
+div{
+	font-family:'Roboto';
+	width:64%;
+	margin:0 auto;
+	margin-top:0px;
+	margin-bottom:40px;
+}
+p{
+	font-size:24px;
+	line-height:32px;
+	margin-bottom:40px;
+}
+p2{
+    margin-bottom:40px;
+    border-radius:4px;
+    background-color:#def6ed;
+    position:absolute;
+    padding:20px; 
+    font-size:20px;
+}
+#brie{
+	display:block;
+	width:720px;
+	height:320px;
+	margin-bottom:40px;
+}
+#gehakt{
+	display:block;
+	width:760px;
+	height:760px;
+	margin-bottom:40px;
+}
+#wafel{
+	display:block;
+	width:864px;
+	height:384px;
+	margin-bottom:40px;
+}
+img{
+	display:block;
+	width:760px;
+	height:760px;
+	margin-bottom:40px;
+}
+nav ul li{
+	display:inline-block;
+}
+
+nav ul li a{
+	text-decoration:none;
+	font-size:35px;
+}
+nav{
+	margin:0 auto;
+	background-color:rgba(0,0,0,0.6);
+	border-radius:50px;
+	text-align:center;
+}
+
+a:link,a:visited{
+	color:white;
+}
+a:hover{
+	color:black;	
+}
